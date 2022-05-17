@@ -1,0 +1,1 @@
+Olá, este projeto esta sendo desenvolvido como parte do meu processo de aprendizado em Angular.
